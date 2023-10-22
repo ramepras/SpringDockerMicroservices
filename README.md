@@ -1,3 +1,3 @@
 # SpringDockerMicroservices
 
-# Uses MovieLens Dataset to build to Movie and Rating microservices. 
+# Uses MovieLens Dataset to build Movie and Rating microservices. 
